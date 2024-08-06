@@ -1,0 +1,289 @@
+/* Home Section */
+#home-section {
+    /*background-color: black;
+    background-image: url("https://wimpl.tech/wp-content/uploads/2023/12/Ellipse-34-scaled.webp");*/
+}
+
+/*#home-section h1 span {
+    padding: 5px;
+    margin: -5px 0 0 -5px;
+    background-image: url("https://wimpl.tech/wp-content/uploads/2023/11/entour.svg");
+}
+
+!* Numbers section *!
+#numbers {
+    background-image: url("https://wimpl.tech/wp-content/uploads/2023/12/Ellipse-33-scaled.webp");
+}
+
+#numbers h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#numbers .numbers-container {
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.24);
+    backdrop-filter: blur(9.5px);
+}
+
+#numbers .numbers-container article {
+    margin-bottom: 20px;
+}
+
+#numbers .numbers-container article:last-of-type {
+    margin-bottom: 0;
+}
+
+#numbers .numbers-container article .number {
+    color: var(--primary-color);
+    font-size: 35px;
+    font-family: 'Russo One', sans-serif;
+    line-height: 100%;
+}
+
+#numbers .numbers-container article h3 {
+    font-weight: 600;
+    margin: 5px 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+!* Review section *!
+#review {
+    background-color: black;
+    background-image: url("https://wimpl.tech/wp-content/uploads/2023/12/Ellipse-34-scaled.webp");
+    overflow: hidden;
+}
+
+#review .section-container {
+    max-width: none;
+    padding: 40px 0;
+}
+
+#review .left-linear-grad,
+#review .right-linear-grad {
+    display: none;
+}
+
+#review h2 {
+    color: white;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+#review .review-banner:nth-of-type(1) {
+    margin-bottom: 20px;
+}
+
+#review .review-banner .splide__track {
+    overflow: visible;
+}
+
+#review .review-banner article {
+    border-radius: 16px;
+    background: #131313;
+    padding: 20px;
+    max-width: 270px;
+}
+
+#review .review-banner article figure {
+    height: 25px;
+    width: max-content;
+}
+
+#review .review-banner article figure img {
+    width: auto;
+}
+
+#review .review-banner article p {
+    font-size: 12px;
+    margin: 20px 0;
+    color: white;
+}
+
+#review .review-banner article h3 {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+}
+
+#review .review-banner article h3 span {
+    font-weight: 600;
+}
+
+!* Calendly section *!
+#calendly-section {
+    background-color: white;
+}
+
+#calendly-section h2 {
+    max-width: 300px;
+    text-align: center;
+    color: black;
+    margin: 0 auto 20px auto;
+}
+
+#calendly-section p {
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+}*/
+
+    /* Pad Version */
+    @media screen and (min-width: 768px)  {
+        /* Home Section */
+        /*#home-section h1 span {
+            padding: 7px;
+            margin: -7px 0 0 -7px;
+        }
+
+        !* Numbers section *!
+        #numbers h2 {
+            margin-bottom: 25px;
+        }
+
+        #numbers .numbers-container {
+            display: flex;
+            justify-content: space-between;
+            padding: 60px;
+        }
+
+        #numbers .numbers-container article {
+            width: 30%;
+            margin: 0;
+        }
+
+        #numbers .numbers-container article .number {
+            font-size: 40px;
+        }
+
+        !* Review section *!
+        #review .section-container {
+            padding: 60px 0;
+        }
+
+        #review h2 {
+            margin-bottom: 60px;
+        }
+
+        #review .review-banner:nth-of-type(1) {
+            margin-bottom: 25px;
+        }
+
+        #review .review-banner article {
+            max-width: 360px;
+            padding: 25px;
+        }
+
+        #review .review-banner article figure {
+            height: 30px;
+        }
+
+        #review .review-banner article p {
+            font-size: 16px;
+        }
+
+        #review .review-banner article h3 {
+            font-size: 14px;
+        }
+
+        !* Calendly section *!
+        #calendly-section h2 {
+            max-width: 680px;
+            margin-bottom: 25px;
+        }
+
+        #calendly-section p {
+            max-width: none;
+        }*/
+    }
+
+        /* Desktop Version */
+        @media screen and (min-width: 992px) {
+            /* Home Section */
+            /*#home-section h1 {
+                max-width: 610px;
+            }
+
+            #home-section h1 span {
+                padding: 10px;
+                margin: -10px 0 0 -10px;
+            }
+
+            !* Numbers section *!
+            #numbers h2 {
+                margin-bottom: 30px;
+            }
+
+            #numbers .numbers-container {
+                padding: 80px;
+            }
+
+            #numbers .numbers-container article .number {
+                font-size: 45px;
+            }
+
+            !* Review section *!
+            #review {
+                position: relative;
+            }
+
+            #review .section-container {
+                padding: 80px 0;
+            }
+
+            #review h2 {
+                margin-bottom: 80px;
+            }
+
+            #review .left-linear-grad,
+            #review .right-linear-grad {
+                display: block;
+                position: absolute;
+                top: 0;
+                width: 25%;
+                height: 100%;
+                z-index: 99;
+            }
+
+            #review .left-linear-grad {
+                left: 0;
+                background: linear-gradient(90deg, #000 -11.82%, rgba(0, 0, 0, 0.64) 41.3%, rgba(0, 0, 0, 0.00) 100%);
+            }
+
+            #review .right-linear-grad {
+                right: 0;
+                background: linear-gradient(-90deg, #000 -11.82%, rgba(0, 0, 0, 0.64) 41.3%, rgba(0, 0, 0, 0.00) 100%);
+            }
+
+            #review .review-banner:nth-of-type(1) {
+                margin-bottom: 30px;
+            }
+
+            #review .review-banner article {
+                max-width: 450px;
+                padding: 30px;
+            }
+
+            #review .review-banner article figure {
+                height: 40px;
+            }
+
+            #review .review-banner article p {
+                font-size: 18px;
+            }
+
+            #review .review-banner article h3 {
+                font-size: 16px;
+            }
+
+            !* Calendly section *!
+            #calendly-section h2 {
+                max-width: 970px;
+                margin-bottom: 30px;
+            }*/
+
+
+        }

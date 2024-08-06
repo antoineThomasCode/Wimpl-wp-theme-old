@@ -1,0 +1,148 @@
+/* Russo One and Raleway */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Russo+One&display=swap');
+
+/*
+!* Telegraf Black *!
+@font-face {
+    font-family: "Telegraf Black";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Black.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Black.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Black.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Black.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Black.woff2") format("woff2");
+}
+
+!* Telegraf Bold *!
+@font-face {
+    font-family: "Telegraf Bold";
+    src:
+            !* url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Bold.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Bold.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Bold.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Bold.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Bold.woff2") format("woff2");
+}
+
+!* Telegraf Regular *!
+@font-face {
+    font-family: "Telegraf Regular";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Regular.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Regular.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Regular.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Regular.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-Regular.woff2") format("woff2");
+}
+
+!* Telegraf UltraBold *!
+@font-face {
+    font-family: "Telegraf UltraBold";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraBold.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraBold.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraBold.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraBold.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraBold.woff2") format("woff2");
+}
+
+!* Telegraf UltraLight *!
+@font-face {
+    font-family: "Telegraf UltraLight";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraLight.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraLight.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraLight.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraLight.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/telegraf/PPTelegraf-UltraLight.woff2") format("woff2");
+}
+
+
+
+!* Object-Sans Bold *!
+@font-face {
+    font-family: "Object-Sans Bold";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Bold.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Bold.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Bold.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Bold.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Bold.woff2") format("woff2");
+}
+
+!* Object-Sans BoldSlanted *!
+@font-face {
+    font-family: "Object-Sans BoldSlanted";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-BoldSlanted.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-BoldSlanted.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-BoldSlanted.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-BoldSlanted.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-BoldSlanted.woff2") format("woff2");
+}
+
+!* Object-Sans Heavy *!
+@font-face {
+    font-family: "Object-Sans Heavy";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Heavy.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Heavy.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Heavy.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Heavy.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Heavy.woff2") format("woff2");
+}
+
+!* Object-Sans HeavySlanted *!
+@font-face {
+    font-family: "Object-Sans HeavySlanted";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-HeavySlanted.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-HeavySlanted.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-HeavySlanted.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-HeavySlanted.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-HeavySlanted.woff2") format("woff2");
+}
+
+!* Object-Sans Regular *!
+@font-face {
+    font-family: "Object-Sans Regular";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Regular.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Regular.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Regular.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Regular.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Regular.woff2") format("woff2");
+}
+
+!* Object-Sans Slanted *!
+@font-face {
+    font-family: "Object-Sans Slanted";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Slanted.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Slanted.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Slanted.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Slanted.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Slanted.woff2") format("woff2");
+}
+
+!* Object-Sans Thin *!
+@font-face {
+    font-family: "Object-Sans Thin";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Thin.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Thin.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Thin.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Thin.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-Thin.woff2") format("woff2");
+}
+
+!* Object-Sans ThinSlanted *!
+@font-face {
+    font-family: "Object-Sans ThinSlanted";
+    src:
+            !*url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-ThinSlanted.eot"),*!
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-ThinSlanted.otf") format("otf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-ThinSlanted.ttf") format("ttf"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-ThinSlanted.woff") format("woff"),
+            url("https://wimpl.tech/wp-content/themes/wimpl/fonts/object-sans/PPObjectSans-ThinSlanted.woff2") format("woff2");
+}*/

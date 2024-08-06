@@ -1,0 +1,29 @@
+@keyframes menu-list-display{
+    0%{
+        transform: translateX(100px);
+    }
+    100%{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Open header menu */
+.open-menu {
+    animation: menu-list-display;
+    animation-fill-mode: forwards;
+    animation-duration: 0.5s;
+}
+
+
+/* Partners banner */
+@keyframes scroll-banner {
+    0% {
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+

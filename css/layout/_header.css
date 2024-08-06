@@ -1,0 +1,36 @@
+/* Mobile Version */
+header {
+    background-color: white;
+}
+
+header .header-container {
+    padding: 20px;
+}
+
+header .homeBtn img {
+    height: 30px;
+}
+
+
+    /* Pad Version */
+    @media screen and (min-width: 768px) {
+        header .header-container {
+            padding: 20px 40px;
+        }
+
+        header .homeBtn img {
+            height: 35px;
+        }
+    }
+
+
+        /* Desktop Version  */
+        @media screen and (min-width: 992px) {
+            header .header-container {
+                padding: 20px 60px;
+            }
+
+            header .homeBtn img {
+                height: 40px;
+            }
+        }

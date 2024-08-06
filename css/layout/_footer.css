@@ -1,0 +1,42 @@
+/* Mobile Version */
+footer {
+    background-color: white;
+}
+
+footer .footer-container {
+    padding: 20px;
+}
+
+footer .homeBtn img {
+    height: 30px;
+}
+
+
+/* Pad Version */
+    @media screen and (min-width: 768px) {
+        footer .footer-container {
+            padding: 20px 40px;
+        }
+
+        footer .homeBtn img {
+            height: 35px;
+        }
+    }
+
+
+        /* Desktop Version */
+        @media screen and (min-width: 992px) {
+            footer .footer-container {
+                padding: 20px 60px;
+            }
+
+            footer .homeBtn img {
+                height: 40px;
+            }
+        }
+
+
+
+
+
+

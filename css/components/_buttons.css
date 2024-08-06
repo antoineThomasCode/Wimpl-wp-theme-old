@@ -1,0 +1,54 @@
+.btn {
+    background-color: var(--primary-color);
+    padding: 10px 0;
+    color: black;
+    font-family: "Telegraf Regular";
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    transition: all ease-in-out 0.3s;
+    border-radius: 3px;
+}
+
+.btn:hover {
+    -webkit-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.15);
+    box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.15);
+    transform: scale(1.05);
+    color: white;
+    background-color: var(--secondary-color);
+}
+
+.btn i {
+    margin-left: 5px;
+}
+
+.btn-homepage {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: "Object-Sans Regular";
+}
+
+.btn-homepage img {
+    height: 50px;
+}
+
+/* Version Tablette */
+@media screen and (min-width: 768px) {
+    .btn {
+        padding: 15px 0;
+    }
+
+    .btn-homepage img {
+        height: 55px;
+    }
+}
+
+
+/* Version Desktop */
+@media screen and (min-width: 992px) {
+    .btn-homepage img {
+        height: 60px;
+    }
+
+}
